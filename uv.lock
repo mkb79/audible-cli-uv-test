@@ -1,5 +1,5 @@
 version = 1
-revision = 2
+revision = 3
 requires-python = ">=3.10, <3.14"
 resolution-markers = [
     "python_full_version >= '3.13'",
@@ -971,14 +971,14 @@ wheels = [
 
 [[package]]
 name = "nox-uv"
-version = "0.3.0"
+version = "0.6.3"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "nox" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/1d/b2/80cddc69f98a125ba6cf57bc5285fce6ed8fe370e78acb97104527a2875f/nox_uv-0.3.0.tar.gz", hash = "sha256:1141d0db72bebe678fcee80c6876e70af8af0abb20d0c6808d2918b6354548c5", size = 48083, upload-time = "2025-05-04T17:12:58.926Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/70/af/ebc522c51facc3b7d26df1c5bc0b72baadb33ce4d539cf66758f22008f6c/nox_uv-0.6.3.tar.gz", hash = "sha256:7940dc4fed7326d00c9687d6dac65d625db21064dd02631af64cfdfa738e817b", size = 4992, upload-time = "2025-10-23T01:32:53.774Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/e0/2e/a7267f9e876ecc3999787b0bdf93298807b2060e059f8e50e10a6f9decb2/nox_uv-0.3.0-py3-none-any.whl", hash = "sha256:ba51a32e4dc58e66ed07ba11a4291f5ce25cede35c02db317fa8255ef26520c4", size = 3753, upload-time = "2025-05-04T17:12:57.673Z" },
+    { url = "https://files.pythonhosted.org/packages/98/cc/32317fd187febd9b2c5dc6cad4d25b358bd3c289958a00b78d94dbddf481/nox_uv-0.6.3-py3-none-any.whl", hash = "sha256:650cc4dafcde281a77d0526ac9ff9c92de5cd7759ecc9fdbf98393e4ab24490f", size = 5315, upload-time = "2025-10-23T01:32:52.977Z" },
 ]
 
 [[package]]
